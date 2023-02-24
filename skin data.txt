@@ -1,0 +1,100 @@
+{ "ADS":
+    {
+  
+     
+    
+        
+      "banner_type":"unity",
+      "inter_type":"unity",
+      "native_type":"yandex",
+      "reward_type":"unity",
+      
+
+      "ironsource_id":"1896f3d85",
+      "unity_id":"5149029",
+     
+
+     "banner_id":"R-M-DEMO-300x50",
+      "interstitial_id":"R-M-DEMO-interstitial",
+      "reward_id":"R-M-DEMO-native-i",
+      "native_id":"R-M-DEMO-300x50",
+        
+        
+        "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
+        "more_apps_link": "https://wallpaper.dog/large/20487356.jpg"
+        
+        
+   
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 2",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 3",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 4",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 5",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 6",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+     
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 7",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 8",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 9",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 10",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    }
+  ]
+ 
+  }
